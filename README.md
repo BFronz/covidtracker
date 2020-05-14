@@ -4,9 +4,9 @@ current global infected, recovered and deaths as counts and in chart form. Count
 countries. When a country is applied a bar chart shows infected, recovered and deaths for the selected country.
 
 
-```
-
 ### Installing
+
+```
  
 clone https://github.com/BFronz/covidtracker.git
 
