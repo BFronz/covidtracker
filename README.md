@@ -8,7 +8,6 @@ countries. When a country is applied a bar chart shows infected, recovered and d
 
 ### Installing
  
-```
 clone https://github.com/BFronz/covidtracker.git
 
 npm install package.json
