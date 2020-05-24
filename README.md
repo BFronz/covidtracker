@@ -1,6 +1,6 @@
 # CovidTracker
- The app fetches live coovid  data from the API (https://covid19.mathdro.id/api) using Async/Await syntax. Displays 
-current global infected, recovered and deaths as counts and in chart form. Country selection allow norrowing by
+ The app fetches live covid  data from the API (https://covid19.mathdro.id/api) using Async/Await syntax. Displays 
+current global infected, recovered and deaths as counts and in chart form. Country selection allow narrowing by
 countries. When a country is applied a bar chart shows infected, recovered and deaths for the selected country.
 
 
